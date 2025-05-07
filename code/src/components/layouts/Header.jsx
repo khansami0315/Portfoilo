@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
-//import playIcon from './assets/play-icon.png';
-//import playIcon from '../../assets/images/play-icon.png';
+
 
 
 const Header = () => (
