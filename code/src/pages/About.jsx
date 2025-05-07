@@ -83,7 +83,7 @@ const About = () => {
                     <ul className="skills-list" style={{
                       listStyle: 'none',
                       padding: '0',
-                      marginBottom: '30px'
+                      marginBottom: '100px'
                     }}>
                       {[
                         'MongoDB, Express.js, Angular, Node.js',
