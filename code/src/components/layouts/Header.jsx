@@ -35,7 +35,7 @@ const Header = () => (
                      </li>
                      <li className="nav-item">
                        
-                        <Link className="nav-link" to="/service">Servicess</Link>
+                        <Link className="nav-link" to="/service">Services</Link>
                      </li>
                      <li className="nav-item">
                      <Link className="nav-link" to="/blog">blog</Link>
