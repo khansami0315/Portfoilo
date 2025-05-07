@@ -38,7 +38,7 @@ const About = () => {
                   <div className="about-image" style={{
                     borderRadius: '10px',
                     overflow: 'hidden',
-                    boxShadow: '0 10px 30px rgba(0,0,0,0.1)'
+                    boxShadow: '0 5px 15px rgba(0,0,0,0.1)'
                   }}>
                     <img 
                       src="/images/abdulsami.jpeg" 
