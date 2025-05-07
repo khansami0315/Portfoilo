@@ -8,7 +8,7 @@ import Layout from './components/layouts/Layout';
 import Services from './pages/Services';
 import Portfolio from './pages/Protfolio';
 
-import Blog from './pages/Blog';
+// import Blog from './pages/Blog';
 
 
 function App() {
@@ -19,12 +19,17 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="contact" element={<Contact />} />
-          <Route  path="service" element={<Services  />} />
 
           <Route path="about" element={<About />} />
-          <Route  path="blog" element={<Blog/>} />
+
           <Route path ="portfolio" element={<Portfolio/>} />
+
+          <Route  path="service" element={<Services  />} />
+          
+          <Route path="contact" element={<Contact />} />
+
+      
+          {/* <Route  path="blog" element={<Blog/>} /> */}
         </Route>
       </Routes>
     </BrowserRouter>
