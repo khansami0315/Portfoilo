@@ -88,6 +88,7 @@ const About = () => {
                       {[
                         'MongoDB, Express.js, Angular, Node.js',
                         'React.js, HTML5, CSS3, Bootstrap',
+                        'Core PHP, Laravel, JavaScript, jQuery',
                         'REST APIs, JWT, Git, Deployment',
                         'UI/UX Design and Frontend Animation'
                       ].map((skill, index) => (
