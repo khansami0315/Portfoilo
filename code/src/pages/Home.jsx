@@ -537,7 +537,7 @@ const Home  = () => {
 
 
          {/* blog section start */}
-         <div className="blog_section" style={{
+         {/* <div className="blog_section" style={{
           padding: '80px 0',
           backgroundColor: '#f9f9f9'
         }}>
@@ -626,7 +626,7 @@ const Home  = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         {/* blog section end */}
 
 
