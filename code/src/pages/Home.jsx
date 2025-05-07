@@ -219,7 +219,7 @@ const Home  = () => {
                     boxShadow: '0 10px 30px rgba(0,0,0,0.1)'
                   }}>
                     <img 
-                      src="/images/abdulahed.jpeg" 
+                      src="/images/abdulsami.jpeg" 
                       alt="About me" 
                       className="img-fluid"
                       style={{
