@@ -71,12 +71,18 @@ const Header = () => (
                                  </div>
                                  <div className="col-md-6">
                                     <div className="social_icon">
-                                       <ul>
+                                    <ul>
                                           <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
                                           <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                          <li><a href="#"><i className="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                          {/* <li><a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a></li> */}
-                                          
+                                          <li><a href="https://www.linkedin.com/in/abdul-sami-62b634232/">
+                                              <i className="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                          <li>
+                                          <a href="https://github.com/khansami0315" target="_blank" rel="noopener noreferrer">
+                                           <i className="fa fa-github" aria-hidden="true"></i>
+                                                </a>
+                                                </li>
+
+                                      
                                        </ul>
                                     </div>
                                  </div>
@@ -99,7 +105,6 @@ const Header = () => (
                                           <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
                                           <li><a href="https://www.linkedin.com/in/abdul-sami-62b634232/">
                                               <i className="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                          {/* <li><a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a></li> */}
                                           <li>
                                           <a href="https://github.com/khansami0315" target="_blank" rel="noopener noreferrer">
                                            <i className="fa fa-github" aria-hidden="true"></i>
