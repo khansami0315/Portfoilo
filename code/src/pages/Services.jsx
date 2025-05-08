@@ -47,17 +47,12 @@ const Services = () => {
 
 
 
-                 {
-                  icon1: '/images/database.png',
-                  icon2: '/images/icon-9.png',
-                  title: 'DataBase Design'
-                },
 
 
                 {
                   icon1: '/images/php.png',
                   icon2: '/images/icon-10.png',
-                  title: 'PHP'
+                  title: 'PHP & Laravel Development'
                 },
 
 
