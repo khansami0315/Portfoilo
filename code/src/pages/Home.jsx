@@ -403,11 +403,9 @@ const Home  = () => {
       </div>
       {/* portfolio section end */}
 
-
-
-
-      {/* services section start */}
-      <section className="services-section" style={{
+    
+       {/* services section start */}
+       <section className="services-section" style={{
          padding: '80px 0',
          backgroundColor: '#fff'
        }}>
@@ -443,11 +441,22 @@ const Home  = () => {
                    icon2: '/images/icon-7.png',
                    title: 'HTML And CSS'
                  },
-               //   {
-               //     icon1: '/images/icon-4.png',
-               //     icon2: '/images/icon-8.png',
-               //     title: 'Logo Designing'
-               //   }
+                 {
+                   icon1: '/images/icon-4.png',
+                   icon2: '/images/icon-8.png',
+                   title: 'DataBase Design'
+                 },
+
+
+
+
+
+                {
+                  icon1: '/images/php.png',
+                  icon2: '/images/icon-10.png',
+                  title: 'PHP & Laravel Development'
+                },
+
 
 
 
